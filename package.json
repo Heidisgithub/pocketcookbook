@@ -1,5 +1,6 @@
 {
   "name": "pocketcookbook",
+  "homepage": "https://heidisgithub.github.io/pocketcookbook/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
