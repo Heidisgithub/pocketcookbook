@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+
+.instructions{
+font-size: 22px;
+padding-bottom: 50px;
+text-align: justify;
+
+}
+.container{
+margin-left: 50px;
+margin-right: 50px;
+}
+
+.container h2{
+padding-top: 50px;  
+font-size: 40px;
+}
+
+h1{
+  font-size: 50px;
+}
+
+body{
+  background-color: rgb(206, 236, 211);
+
+}
+
+.footer{
+  background-color: rgb(148, 212, 158);
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.recipeImg{
+  width: 100%;
+}
+
+.ingredients{
+color: crimson;
+}
+
+.header{
+  font-family: cursive;
+}
