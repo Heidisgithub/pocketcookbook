@@ -14,7 +14,7 @@ import Recipe from './Recipe';
 function App() {
   
   return (
-    <Router>
+    <Router basename="/pocketcookbook/">
     <div className="App">
         <h1 className="header">My Pocket Cookbook</h1>
     </div>
